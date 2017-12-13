@@ -16,10 +16,12 @@ self.addEventListener('activate', event => {
   	console.log('Service worker activate event: activated');
 });
 
+// return from cache - then update cache
 self.addEventListener('fetch', function(event) {
 	var file = event.request;
 	
 	event.respondWith(caches.match(file).then(function(resp) {
+		console.log("Service worker fetch file from cache: " + file.url);
 		var fetchedFile = fetch(file).then(function(response) {
 			console.log("Service worker fetch event: downloaded -" + file.url);
 			caches.open(CACHE_NAME).then(function(cache) {
