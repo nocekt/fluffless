@@ -19,6 +19,11 @@
         "src": "images/i384.png",
         "type": "image/png",
         "sizes": "384x384"
+      },
+      {
+        "src": "images/i512.png",
+        "type": "image/png",
+        "sizes": "512x512"
       }
     ]
   }
