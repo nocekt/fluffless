@@ -1,1 +1,1 @@
-document.getElementsByTagName("h1")[0].innerHTML = "it works";
+document.getElementsByTagName("h1")[0].innerHTML = "testing sw update";
