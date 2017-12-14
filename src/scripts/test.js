@@ -1,1 +1,0 @@
-document.getElementsByTagName("h1")[0].innerHTML = "testing sw update";
