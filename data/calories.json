@@ -1,0 +1,152 @@
+{
+    "generic soft drink": {
+        "portion": 100,
+        "unit": "ml",
+        "value": 40,
+        "type": "soft drink",
+        "default": true
+    },
+    "coca-cola": {
+        "portion": 100,
+        "unit": "ml",
+        "value": 42,
+        "type": "soft drink"
+    },
+    "generic chips": {
+        "portion": 100,
+        "unit": "g",
+        "value": 500,
+        "type": "chips",
+        "default": true
+    },
+    "generic candy": {
+        "portion": 100,
+        "unit": "g",
+        "value": 500,
+        "type": "candy",
+        "default": true
+    },
+    "kinder pingui": {
+        "portion": 1,
+        "unit": "piece",
+        "value": 135,
+        "type": "candy"
+    },
+    "kinder chocolate": {
+        "portion": 1,
+        "unit": "piece",
+        "value": 71,
+        "type": "candy"
+    },
+    "malaga": {
+        "portion": 1,
+        "unit": "piece",
+        "value": 95,
+        "type": "candy"
+    },
+    "snickers": {
+        "portion": 1,
+        "unit": "piece",
+        "value": 250,
+        "type": "candy"
+    },
+    "generic chocolate": {
+        "portion": 100,
+        "unit": "g",
+        "value": 550,
+        "type": "chocolate",
+        "default": true
+    },
+    "generic cookie": {
+        "portion": 1,
+        "unit": "piece",
+        "value": 55,
+        "type": "cookie",
+        "default": true
+    },
+    "generic fast food": {
+        "portion": 100,
+        "unit": "g",
+        "value": 500,
+        "type": "fast food",
+        "default": true
+    },
+    "pizza (32cm)": {
+        "portion": 1,
+        "unit": "whole",
+        "value": 1200,
+        "type": "fast food"
+    },
+    "pizza (42cm)": {
+        "portion": 1,
+        "unit": "piece",
+        "value": 2200,
+        "type": "fast food"
+    },
+    "pizza (50cm)": {
+        "portion": 1,
+        "unit": "piece",
+        "value": 3000,
+        "type": "fast food"
+    },
+    "pizza giuseppe": {
+        "portion": 1,
+        "unit": "whole",
+        "value": 1000,
+        "type": "fast food"
+    },
+    "kebab": {
+        "portion": 1,
+        "unit": "whole",
+        "value": 900,
+        "type": "fast food"
+    },
+    "small burger": {
+        "portion": 1,
+        "unit": "whole",
+        "value": 300,
+        "type": "fast food"
+    },
+    "big burger": {
+        "portion": 1,
+        "unit": "whole",
+        "value": 800,
+        "type": "fast food"
+    },
+    "small fries": {
+        "portion": 1,
+        "unit": "whole",
+        "value": 250,
+        "type": "fast food"
+    },
+    "big fries": {
+        "portion": 1,
+        "unit": "whole",
+        "value": 400,
+        "type": "fast food"
+    },
+    "nuggets": {
+        "portion": 1,
+        "unit": "piece",
+        "value": 45,
+        "type": "fast food"
+    },
+    "zapiekanka": {
+        "portion": 1,
+        "unit": "whole",
+        "value": 900,
+        "type": "fast food"
+    },
+    "zapiekanka tesco": {
+        "portion": 1,
+        "unit": "whole",
+        "value": 500,
+        "type": "fast food"
+    },
+    "hot-dog": {
+        "portion": 1,
+        "unit": "whole",
+        "value": 300,
+        "type": "fast food"
+    }
+}
